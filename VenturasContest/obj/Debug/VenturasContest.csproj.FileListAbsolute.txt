@@ -1,0 +1,7 @@
+C:\Users\Ahashan\Documents\Visual Studio 2017\Projects\VenturasContest\VenturasContest\bin\Debug\VenturasContest.exe.config
+C:\Users\Ahashan\Documents\Visual Studio 2017\Projects\VenturasContest\VenturasContest\bin\Debug\VenturasContest.exe
+C:\Users\Ahashan\Documents\Visual Studio 2017\Projects\VenturasContest\VenturasContest\bin\Debug\VenturasContest.pdb
+C:\Users\Ahashan\Documents\Visual Studio 2017\Projects\VenturasContest\VenturasContest\obj\Debug\VenturasContest.csprojAssemblyReference.cache
+C:\Users\Ahashan\Documents\Visual Studio 2017\Projects\VenturasContest\VenturasContest\obj\Debug\VenturasContest.csproj.CoreCompileInputs.cache
+C:\Users\Ahashan\Documents\Visual Studio 2017\Projects\VenturasContest\VenturasContest\obj\Debug\VenturasContest.exe
+C:\Users\Ahashan\Documents\Visual Studio 2017\Projects\VenturasContest\VenturasContest\obj\Debug\VenturasContest.pdb
